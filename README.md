@@ -3,7 +3,7 @@ This script was created for : https://www.roblox.com/games/8117963032/Obby-Navid
 
 **To put this in your exploit**
 
-V1 (Pass all lobby [No auto prestige])
+V1 (Pass all obby [No auto prestige])
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ziphyx/Raco-Obby/main/Obfuscate.lua"))();
 
