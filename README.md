@@ -7,6 +7,6 @@ V1 (Pass all obby [No auto prestige])
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ziphyx/Raco-Obby/main/Obfuscate.lua"))();
 
-V2 (Prestiges go BRRRR)
+V2 (Prestiges go BRRRR) U CAN PAUSE IT WITH X KEY
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ziphyx/Raco-Obby/main/Obfuscate-V2.lua"))();
